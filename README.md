@@ -10,12 +10,12 @@ Install with
 ---------------------------------------
 
 ## Documentation
-### wcl.sync(fileLocation);
+### nwcl.sync(fileLocation);
 
 * `fileLocation` - String path to the file you want to read from
 * Returns: `<integer>` number of lines
 
-### wcl.async(fileLocation);
+### nwcl.async(fileLocation);
 
 * `fileLocation` - String path to the file you want to read from
 * Returns: `<Promise>` number of lines
