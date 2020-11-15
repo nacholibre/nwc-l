@@ -1,0 +1,22 @@
+{
+  "name": "nwc-l",
+  "version": "1.0.0",
+  "description": "Count new lines in a file sync or async.",
+  "main": "nwc-l.js",
+  "scripts": {
+    "test": "tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nacholibre/wc-l.git"
+  },
+  "author": "Yoan Arnaudov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nacholibre/wc-l/issues"
+  },
+  "homepage": "https://github.com/nacholibre/wc-l#readme",
+  "devDependencies": {
+    "tape": "^5.0.1"
+  }
+}
